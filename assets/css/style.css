@@ -1,0 +1,24 @@
+body {
+  font-family: "Roboto", sans-serif;
+}
+
+body h5 {
+  font-weight: 300;
+}
+
+body p {
+  font-weight: 300;
+}
+
+body h4 {
+  font-weight: 500;
+  font-size: 1.42rem;
+}
+
+#footer-img {
+  width: 6rem;
+}
+
+#nav-img {
+  width: 6rem;
+}
